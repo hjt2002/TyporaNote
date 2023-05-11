@@ -1,1 +1,1 @@
-#TyporaNote
+TyporaNote
